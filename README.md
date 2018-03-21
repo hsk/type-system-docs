@@ -26,3 +26,11 @@ SML の実装を OCaml に移植したもの。
 
 - A Region Inference Algorithm - Martin Elsman http://www.elsman.com/mlkit/pdf/toplas98.pdf
 
+### [リージョンについて](http://keens.github.io/blog/2015/12/09/ri_jonnitsuite/) κeenのHappy Hacκing Blog | Lispエイリアンの狂想曲
+
+
+- [A Brief Introduction to Regions](http://www.elsman.com/mlkit/pdf/ismm98.pdf) 今回の記事はこの論文の内容をかい摘んで書いてある。
+- [Implementation of the Typed Call-by-value lambda-calculus using a Stack of Regions](http://www.elsman.com/mlkit/pdf/popl94.pdf) (多分)リージョンの初出論文
+- [A Region Inference Algorithm](http://www.elsman.com/mlkit/pdf/toplas98.pdf) リージョン推論のアルゴリズム。70ページある…
+- [ML Kitの論文たち](http://www.elsman.com/mlkit/papers.html)  ここに色々論文ある。
+
