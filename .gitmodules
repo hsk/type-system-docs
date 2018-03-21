@@ -4,3 +4,6 @@
 [submodule "region_infer"]
 	path = region_infer
 	url = https://github.com/hsk/region_infer
+[submodule "ohori95"]
+	path = ohori95
+	url = https://github.com/hsk/ohori95
