@@ -1,3 +1,6 @@
 [submodule "region_based_mini_ml"]
 	path = region_based_mini_ml
 	url = https://github.com/hsk/region_based_mini_ml
+[submodule "region_infer"]
+	path = region_infer
+	url = https://github.com/hsk/region_infer
